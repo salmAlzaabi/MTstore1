@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "coins": 1000,
+    "price_credits": 2000,
+    "image_url": "/images/coins_1000.png",
+    "name": "1,000 Coins"
+  },
+  {
+    "id": 2,
+    "coins": 10000,
+    "price_credits": 20000,
+    "image_url": "/images/coins_10000.png",
+    "name": "10,000 Coins"
+  },
+  {
+    "id": 3,
+    "coins": 20000,
+    "price_credits": 40000,
+    "image_url": "/images/coins_20000.png",
+    "name": "20,000 Coins"
+  },
+  {
+    "id": 4,
+    "coins": 30000,
+    "price_credits": 60000,
+    "image_url": "/images/coins_30000.png",
+    "name": "30,000 Coins"
+  },
+  {
+    "id": 5,
+    "coins": 40000,
+    "price_credits": 80000,
+    "image_url": "/images/coins_40000.png",
+    "name": "40,000 Coins"
+  },
+  {
+    "id": 6,
+    "coins": 50000,
+    "price_credits": 100000,
+    "image_url": "/images/coins_50000.png",
+    "name": "50,000 Coins"
+  },
+  {
+    "id": 7,
+    "coins": 60000,
+    "price_credits": 120000,
+    "image_url": "/images/coins_60000.png",
+    "name": "60,000 Coins"
+  },
+  {
+    "id": 8,
+    "coins": 70000,
+    "price_credits": 140000,
+    "image_url": "/images/coins_70000.png",
+    "name": "70,000 Coins"
+  },
+  {
+    "id": 9,
+    "coins": 80000,
+    "price_credits": 160000,
+    "image_url": "/images/coins_80000.png",
+    "name": "80,000 Coins"
+  },
+  {
+    "id": 10,
+    "coins": 90000,
+    "price_credits": 180000,
+    "image_url": "/images/coins_90000.png",
+    "name": "90,000 Coins"
+  },
+  {
+    "id": 11,
+    "coins": 100000,
+    "price_credits": 200000,
+    "image_url": "/images/coins_100000.png",
+    "name": "100,000 Coins"
+  }
+]
